@@ -6,7 +6,9 @@ Detection and tracking of neurons for in vivo analysis of memory traces
 2) The package can be loaded via `import memotrack`
 
 ## Basic usage
-The image must be a 2 channel Tiff file, with the first channel being the nuclei and the second channel the neuron signal. FWHMxy is the Full Width at Half Maximum of the desired object to be detected (on the first channel). The following command starts the analysis
+The image must be a 2 channel Tiff file, with the first channel being the nuclei and the second channel the neuron signal. FWHMxy is the Full Width at Half Maximum of the desired object to be detected (on the first channel). 
+
+The following command starts the analysis:
 
 ```
 import memotrack

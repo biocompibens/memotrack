@@ -15,3 +15,6 @@ The following command starts the analysis:
 import memotrack
 memotrack.run(image_path, verbose=True, FWHMxy=1.21)
 ```
+
+## Sample images
+For testing purposes, sample images can be found [here](https://cloud.biologie.ens.fr/index.php/s/tzbIwlpW5FM5qaR).

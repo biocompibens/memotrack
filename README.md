@@ -17,4 +17,4 @@ memotrack.run(image_path, verbose=True, FWHMxy=1.21)
 ```
 
 ## Sample images
-For testing purposes, sample images can be found [here](https://cloud.biologie.ens.fr/index.php/s/tzbIwlpW5FM5qaR).
+For testing purposes, sample images can be found [here](https://cloud.biologie.ens.fr/index.php/s/tzbIwlpW5FM5qaR). On the same link, we can also find the manual annotation (with results from our software and the ones we use as comparison), as well as the synthetic sequence (with the corresponding ground truth).
